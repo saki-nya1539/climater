@@ -1,6 +1,6 @@
-# ClimateR 🌡️
+# ClimateR 
 
-コマンドラインで動く、気候データ分析ツール。「15の言語で15個のアプリを作る」ポートフォリオプロジェクトの11本目（R編）。
+コマンドラインで動く、気候データ分析ツール。
 
 ![CI](https://github.com/saki-nya1539/climater/actions/workflows/ci.yml/badge.svg)
 
